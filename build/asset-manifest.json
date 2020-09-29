@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rubixcubereubs.github.io/static/css/main.1cde2787.chunk.css",
+    "main.js": "/rubixcubereubs.github.io/static/js/main.ac086b4f.chunk.js",
+    "main.js.map": "/rubixcubereubs.github.io/static/js/main.ac086b4f.chunk.js.map",
+    "runtime-main.js": "/rubixcubereubs.github.io/static/js/runtime-main.b6d4e93c.js",
+    "runtime-main.js.map": "/rubixcubereubs.github.io/static/js/runtime-main.b6d4e93c.js.map",
+    "static/js/2.9e5f5339.chunk.js": "/rubixcubereubs.github.io/static/js/2.9e5f5339.chunk.js",
+    "static/js/2.9e5f5339.chunk.js.map": "/rubixcubereubs.github.io/static/js/2.9e5f5339.chunk.js.map",
+    "index.html": "/rubixcubereubs.github.io/index.html",
+    "precache-manifest.5c8d6bc5fb32f1f5d26610bd86e14fd1.js": "/rubixcubereubs.github.io/precache-manifest.5c8d6bc5fb32f1f5d26610bd86e14fd1.js",
+    "service-worker.js": "/rubixcubereubs.github.io/service-worker.js",
+    "static/css/main.1cde2787.chunk.css.map": "/rubixcubereubs.github.io/static/css/main.1cde2787.chunk.css.map",
+    "static/js/2.9e5f5339.chunk.js.LICENSE.txt": "/rubixcubereubs.github.io/static/js/2.9e5f5339.chunk.js.LICENSE.txt",
+    "static/media/energy.css": "/rubixcubereubs.github.io/static/media/background.3b7e31fb.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6d4e93c.js",
+    "static/js/2.9e5f5339.chunk.js",
+    "static/css/main.1cde2787.chunk.css",
+    "static/js/main.ac086b4f.chunk.js"
+  ]
+}
